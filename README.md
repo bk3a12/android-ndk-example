@@ -1,2 +1,2 @@
 # android-ndk-example
-Copy right by Google Android open source code.
+Copy right by Google Android NDK open source code.
